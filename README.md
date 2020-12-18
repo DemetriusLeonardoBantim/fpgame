@@ -9,4 +9,4 @@ Projeto simples com o intuito de melhorar minha logica de programacao e conhecim
 
 
 O jogo aumenta sua dificuldade normalmente de 5 em 5 segundos.
-Caso consiga 100 pontos eu pago uma pizza 
+Caso consiga 100 pontos eu pago uma pizza! :p
